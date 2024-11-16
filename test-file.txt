@@ -1,1 +1,11 @@
-Hola, este es un archivo de texto de prueba para el modulo de herramientas case
+Hola, este es un archivo de texto de desarrollo para el modulo de herramientas case
+
+Hola
+
+Esto son los nuevos cambios que estoy haciendo
+
+- 
+- 
+- 
+
+[]
